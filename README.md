@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @No4b-Amate4r
-- 👀 I’m interested in playing chess
-- 🌱 I’m currently learning C++ and Python 3
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 👋 Hi, I’m @No4b-Amate4r.
+- 👀 I’m interested in playing chess and Minecraft.
+- 🌱 I’m currently learning C++, Python 3, Java and JS.
+- 💞️ I’m looking to collaborate on nothing.
+- 📫 You can't reach me if you are not my friend ... (lol)
+- 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I am lazy.
 
 <!---
